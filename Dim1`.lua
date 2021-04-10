@@ -4,6 +4,10 @@ function TPPlayerToEggAndGrab(EggNumber)
 end
 
 TPPlayerToEggAndGrab(1)
+wait(.2)
 TPPlayerToEggAndGrab(2)
+wait(.2)
 TPPlayerToEggAndGrab(3)
+wait(.2)
 TPPlayerToEggAndGrab(4)
+wait(.2)
